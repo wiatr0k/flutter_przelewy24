@@ -1,4 +1,4 @@
-package com.example.camera;
+package pl.primigenius.camera;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
